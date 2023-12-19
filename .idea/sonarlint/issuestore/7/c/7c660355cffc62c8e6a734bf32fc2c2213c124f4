@@ -1,0 +1,15 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½íí™È1
+
+java:S1319"lThe type of "credenciales" should be an interface such as "List" rather than the implementation "ArrayList".(‰Ÿìáøÿÿÿÿ8¿íí™È1
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ìö‚øÿÿÿÿ8¿íí™È1
+z
+java:S1104"XMake credenciales a static final constant or non-public and provide accessors if needed.(‰Ÿìáøÿÿÿÿ8Áíí™È1
+T
+java:S1444"2Make this "public static credenciales" field final(‰Ÿìáøÿÿÿÿ8Áíí™È1
+?
+java:S2386"Make this member "protected".(‰Ÿìáøÿÿÿÿ8Òíí™È1
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÍäŸÿÿÿÿÿ8Öíí™È1

@@ -1,0 +1,5 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ØìÓ	8æ•‰›È1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏŒŸÂÿÿÿÿÿ8è•‰›È1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(Óªüÿÿÿÿ8‚–‰›È1
